@@ -1,2 +1,2 @@
 # ai
-Repo for LLM experimentation
+LLM experimentation
